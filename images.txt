@@ -3,4 +3,4 @@ nginx
 gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.62.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
